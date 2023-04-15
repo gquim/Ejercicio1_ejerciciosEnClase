@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\bin\Debug\net6.0\ejerciciosEnClase.exe
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\bin\Debug\net6.0\ejerciciosEnClase.deps.json
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\bin\Debug\net6.0\ejerciciosEnClase.runtimeconfig.json
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\bin\Debug\net6.0\ejerciciosEnClase.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\bin\Debug\net6.0\ejerciciosEnClase.pdb
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.AssemblyInfo.cs
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\refint\ejerciciosEnClase.dll
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.pdb
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ejerciciosEnClase.genruntimeconfig.cache
+C:\Users\hp\Documents\prgra\ejerciciosEnClase\obj\Debug\net6.0\ref\ejerciciosEnClase.dll
